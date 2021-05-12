@@ -1,0 +1,273 @@
+{
+    "status":"OK",
+    "copyright":"Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section":"Science",
+    "last_updated":"2021-05-12T12:40:07-04:00",
+    "num_results":25,
+    "results":[
+       {
+          "section":"climate",
+          "subsection":"",
+          "title":"Climate Change Is Making Big Problems Bigger",
+          "abstract":"New data compiled by the E.P.A. shows how global warming is making life harder for Americans in myriad ways that threaten their health, safety and homes.",
+          "url":"https://www.nytimes.com/2021/05/12/climate/climate-change-EPA.html",
+          "uri":"nyt://article/d6cce107-7d7d-5c76-ab17-6a06585c8417",
+          "byline":"By Christopher Flavelle",
+          "item_type":"Article",
+          "updated_date":"2021-05-12T16:42:15-04:00",
+          "created_date":"2021-05-12T16:34:45-04:00",
+          "published_date":"2021-05-12T16:34:45-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Global Warming",
+             "Disasters and Emergencies",
+             "Floods",
+             "Hurricanes and Tropical Storms",
+             "Wildfires",
+             "Lyme Disease",
+             "Allergies",
+             "Greenhouse Gas Emissions"
+          ],
+          "org_facet":[
+             "Environmental Protection Agency"
+          ],
+          "per_facet":[
+             "Regan, Michael S (1976- )"
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/3y8I1Ne"
+       },
+       {
+          "section":"health",
+          "subsection":"",
+          "title":"C.D.C. Advisers Endorse Pfizer Vaccine for Children Ages 12 to 15",
+          "abstract":"Immunizations will quickly begin nationwide, officials predicted.",
+          "url":"https://www.nytimes.com/2021/05/12/health/coronavirus-vaccine-children.html",
+          "uri":"nyt://article/b9c00c2e-f3f0-5fbf-b920-7cca9e730be6",
+          "byline":"By Apoorva Mandavilli",
+          "item_type":"Article",
+          "updated_date":"2021-05-12T16:57:28-04:00",
+          "created_date":"2021-05-12T15:09:34-04:00",
+          "published_date":"2021-05-12T15:09:34-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Children and Childhood",
+             "Coronavirus Reopenings",
+             "Vaccination and Immunization",
+             "Coronavirus (2019-nCoV)",
+             "Education (K-12)",
+             "Parenting",
+             "your-feed-science"
+          ],
+          "org_facet":[
+             "Advisory Committee on Immunization Practices",
+             "Pfizer Inc"
+          ],
+          "per_facet":[
+             
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/3fcofI2"
+       },
+       {
+          "section":"science",
+          "subsection":"",
+          "title":"Scientists warn U.S. lawmakers about the continued threat of coronavirus variants.",
+          "abstract":"At a House subcommittee hearing, witnesses emphasize the need for much more genome sequencing, data-sharing and research to track virus mutations and their effects.",
+          "url":"https://www.nytimes.com/2021/05/12/science/covid-variant-mutation-tracking.html",
+          "uri":"nyt://article/7dd58c48-5a21-5b51-8afd-ef3aa59a3443",
+          "byline":"By Carl Zimmer",
+          "item_type":"Article",
+          "updated_date":"2021-05-12T15:19:39-04:00",
+          "created_date":"2021-05-12T12:34:57-04:00",
+          "published_date":"2021-05-12T12:34:57-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "internal-essential",
+             "Coronavirus (2019-nCoV)",
+             "United States Politics and Government",
+             "Research",
+             "Genetics and Heredity",
+             "Vaccination and Immunization"
+          ],
+          "org_facet":[
+             "House of Representatives"
+          ],
+          "per_facet":[
+             
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/3obFUDI"
+       },
+       {
+          "section":"climate",
+          "subsection":"",
+          "title":"There’s a New Definition of ‘Normal’ for Weather",
+          "abstract":"New baseline data for temperature, rain, snow and other weather events reveal how the climate has changed in the United States.",
+          "url":"https://www.nytimes.com/interactive/2021/05/12/climate/climate-change-weather-noaa.html",
+          "uri":"nyt://interactive/9ada6122-a840-5002-bd57-0f8d072736f0",
+          "byline":"By Henry Fountain and Jason Kao",
+          "item_type":"Interactive",
+          "updated_date":"2021-05-12T17:24:33-04:00",
+          "created_date":"2021-05-12T05:00:02-04:00",
+          "published_date":"2021-05-12T05:00:02-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Global Warming",
+             "Weather",
+             "Temperature",
+             "States (US)"
+          ],
+          "org_facet":[
+             "National Oceanic and Atmospheric Administration"
+          ],
+          "per_facet":[
+             
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/33CNj5q"
+       },
+       {
+          "section":"health",
+          "subsection":"",
+          "title":"Novavax Reports More Delays for Its Covid-19 Vaccine",
+          "abstract":"“I don’t see a lot going well for them at this point,” said one analyst.",
+          "url":"https://www.nytimes.com/2021/05/11/health/covid-vaccine-novavax-delays.html",
+          "uri":"nyt://article/a4a3f8ea-4d3d-5248-8721-43f10403da11",
+          "byline":"By Katie Thomas",
+          "item_type":"Article",
+          "updated_date":"2021-05-11T23:37:02-04:00",
+          "created_date":"2021-05-11T15:00:02-04:00",
+          "published_date":"2021-05-11T15:00:02-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Clinical Trials",
+             "Vaccination and Immunization",
+             "Drugs (Pharmaceuticals)",
+             "Coronavirus (2019-nCoV)"
+          ],
+          "org_facet":[
+             "Novavax Inc",
+             "Serum Institute of India"
+          ],
+          "per_facet":[
+             
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/33zCUHL"
+       },
+       {
+          "section":"climate",
+          "subsection":"",
+          "title":"Biden Administration Approves Nation’s First Major Offshore Wind Farm",
+          "abstract":"The Vineyard Wind project, off the coast of Massachusetts, would generate enough electricity to power 400,000 homes.",
+          "url":"https://www.nytimes.com/2021/05/11/climate/climate-wind-farm.html",
+          "uri":"nyt://article/0307ca27-f84a-5850-ac50-fb49806ae3bf",
+          "byline":"By Coral Davenport and Lisa Friedman",
+          "item_type":"Article",
+          "updated_date":"2021-05-12T08:43:29-04:00",
+          "created_date":"2021-05-11T05:30:10-04:00",
+          "published_date":"2021-05-11T05:30:10-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Wind Power",
+             "Electric Light and Power",
+             "Global Warming",
+             "Greenhouse Gas Emissions",
+             "United States Politics and Government"
+          ],
+          "org_facet":[
+             "Vineyard Wind LLC",
+             "Avangrid Renewables LLC",
+             "Copenhagen Infrastructure Partners"
+          ],
+          "per_facet":[
+             "Biden, Joseph R Jr"
+          ],
+          "geo_facet":[
+             "Martha's Vineyard (Mass)",
+             "Atlantic Ocean"
+          ],
+          "short_url":"https://nyti.ms/3tFnD2C"
+       },
+       {
+          "section":"science",
+          "subsection":"",
+          "title":"Can You Have More Than 150 Friends?",
+          "abstract":"A new study questions that figure, known as Dunbar’s number. The Oxford professor for whom it is named, Robin Dunbar, dismissed the findings as “absolutely bonkers.”",
+          "url":"https://www.nytimes.com/2021/05/11/science/dunbars-number-debunked.html",
+          "uri":"nyt://article/c1b4d29d-0a4b-5dae-9d31-09277d85e30b",
+          "byline":"By Jenny Gross",
+          "item_type":"Article",
+          "updated_date":"2021-05-12T08:36:10-04:00",
+          "created_date":"2021-05-11T05:30:06-04:00",
+          "published_date":"2021-05-11T05:30:06-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Research",
+             "Friendship",
+             "Archaeology and Anthropology"
+          ],
+          "org_facet":[
+             "Biology Letters (Journal)",
+             "Stockholm University"
+          ],
+          "per_facet":[
+             "Dunbar, Robin"
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/3o7jCDd"
+       },
+       {
+          "section":"health",
+          "subsection":"",
+          "title":"Is It Covid or the Flu? New Combo Tests Can Find Out.",
+          "abstract":"New tests for respiratory illnesses can look for more than 20 pathogens at a time.",
+          "url":"https://www.nytimes.com/2021/05/11/health/covid-tests-flu.html",
+          "uri":"nyt://article/0fff64a2-575b-5061-bc0d-635cb670170c",
+          "byline":"By Roxanne Khamsi",
+          "item_type":"Article",
+          "updated_date":"2021-05-12T08:48:01-04:00",
+          "created_date":"2021-05-11T05:00:21-04:00",
+          "published_date":"2021-05-11T05:00:21-04:00",
+          "material_type_facet":"",
+          "kicker":"",
+          "des_facet":[
+             "Tests (Medical)",
+             "Coronavirus (2019-nCoV)",
+             "Influenza",
+             "your-feed-healthcare",
+             "Laboratories and Scientific Equipment"
+          ],
+          "org_facet":[
+             
+          ],
+          "per_facet":[
+             
+          ],
+          "geo_facet":[
+             
+          ],
+          "short_url":"https://nyti.ms/2Q6Dz0a"
+       }
+    ]
+ }
