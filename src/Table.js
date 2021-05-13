@@ -1,5 +1,3 @@
-// Table.js
-
 import React from "react";
 import { useTable, useGlobalFilter, useAsyncDebounce } from "react-table";
 import './table.css';
